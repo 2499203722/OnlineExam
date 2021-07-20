@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efeffbea-7802-427c-9a6a-e7680b192b00" name="Default Changelist" comment="完善了服务层的Teacher和Student接口" />
+    <list default="true" id="efeffbea-7802-427c-9a6a-e7680b192b00" name="Default Changelist" comment="完善了服务层的Admin和Paper接口" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,13 +115,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -282,7 +284,7 @@
       <workItem from="1626517436793" duration="2790000" />
       <workItem from="1626659379181" duration="17435000" />
       <workItem from="1626693205375" duration="9399000" />
-      <workItem from="1626764624532" duration="1434000" />
+      <workItem from="1626764624532" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1626745921072</created>
@@ -305,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626765880805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完善了服务层的Admin和Paper接口">
+      <created>1626766083759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626766083759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +335,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="完善了服务层的Teacher和Student接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善了服务层的Teacher和Student接口" />
+    <MESSAGE value="完善了服务层的Admin和Paper接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善了服务层的Admin和Paper接口" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
